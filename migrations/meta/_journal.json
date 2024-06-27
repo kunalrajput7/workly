@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1719464472056,
+      "tag": "0000_flippant_agent_brand",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1719467624674,
+      "tag": "0001_broad_spirit",
+      "breakpoints": true
+    }
+  ]
+}
